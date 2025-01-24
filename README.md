@@ -3,7 +3,7 @@
 <div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
   <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1737579133/4189e225-8805-4e55-9a15-d1b2ab103c08-removebg-preview_dnsiyr.png" alt="AAF Logo" width="200">
 
-  <h3 style="color: #ffffff; text-shadow: 0 0 10px #8364a5;">Where Nostalgia Meets Innovation</h3>
+  <h3 style="color: #ffffff; text-shadow: 0 0 10px #8364a5;">Creating Ideal Agents</h3>
 
   <a href="https://x.com/AestheticAgents" style="text-decoration: none;">
     <img src="https://img.shields.io/twitter/follow/AestheticAgents?style=for-the-badge&logo=x&color=black&labelColor=black&logoColor=white" alt="Twitter Follow">
