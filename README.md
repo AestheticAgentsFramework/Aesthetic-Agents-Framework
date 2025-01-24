@@ -1,7 +1,7 @@
 # <div align="center"> Aesthetic Agents Framework
 
 <div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
-  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1737579133/4189e225-8805-4e55-9a15-d1b2ab103c08-removebg-preview_dnsiyr.png" alt="AAF Logo" width="200">
+  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1737681027/68f9a9e9-383e-4f86-b428-01e7f84ed141_ktwb29.jpg" alt="AAF Logo" width="200">
 
   <h3 style="color: #ffffff; text-shadow: 0 0 10px #8364a5;">Creating Ideal Agents</h3>
 
@@ -65,6 +65,9 @@ contract AestheticAgent is IAgent {
     address public owner;
     mapping(address => bool)
 ```
+<div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
+  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1737579133/4189e225-8805-4e55-9a15-d1b2ab103c08-removebg-preview_dnsiyr.png" alt="AAF Logo" width="200">
+</div>
 
 ## Core Features
 
@@ -188,4 +191,8 @@ Special thanks to our community members, contributors, and partners who help mak
 <div align="center" style="margin-top: 50px;">
   <p style="color: #8364a5;">© 2024 Aesthetic Agents Framework. All rights reserved.</p>
 </div>
+</div>
+
+<div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
+  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1737579133/4189e225-8805-4e55-9a15-d1b2ab103c08-removebg-preview_dnsiyr.png" alt="AAF Logo" width="200">
 </div>
