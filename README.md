@@ -1,4 +1,4 @@
-# Aesthetic Agents Framework
+# <div align="center"> Aesthetic Agents Framework
 
 <div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
   <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1737579133/4189e225-8805-4e55-9a15-d1b2ab103c08-removebg-preview_dnsiyr.png" alt="AAF Logo" width="200">
